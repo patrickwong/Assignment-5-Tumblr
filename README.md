@@ -9,3 +9,5 @@ Completed user stories:
 * [x] Compose button should modally present the compose screen.
 * [x] Optional: Compose screen is faded in while the buttons animate in.
 * [x] Optional: Discover bubble should bob up and down unless the SearchViewController is tapped.
+
+(/images/tumblr.gif)
